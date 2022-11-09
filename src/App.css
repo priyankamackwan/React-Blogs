@@ -1,0 +1,19 @@
+.loadermaindiv{
+  width: 80%;
+}
+.loadermaindiv>div{
+  margin: auto;
+  width: 20%;
+}
+.endpage{
+  border: 2px solid red;
+}
+.setAll{
+  
+  width: 40%;
+  margin: auto;
+  color: rgb(11, 15, 253);
+  margin-top: -50px;
+  margin-bottom: 10px;
+  font-weight: 400;
+}
