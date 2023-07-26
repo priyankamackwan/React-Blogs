@@ -2,6 +2,23 @@
 
 Strapi comes with a full featured [Command Line Interface](https://docs.strapi.io/developer-docs/latest/developer-resources/cli/CLI.html) (CLI) which lets you scaffold and manage your project in seconds.
 
+Navigate to the root directory and run the below command
+```bash
+ 1.  cd React-Blogs/backend 
+ 2.  npm install 
+```
+
+### `Example .env` 
+```bash
+HOST=Your host 
+PORT=1337
+APP_KEYS=
+API_TOKEN_SALT=
+ADMIN_JWT_SECRET=
+JWT_SECRET=
+
+```
+
 ### `develop`
 
 Start your Strapi application with autoReload enabled. [Learn more](https://docs.strapi.io/developer-docs/latest/developer-resources/cli/CLI.html#strapi-develop)
